@@ -8,10 +8,8 @@
 
   **In order to use**
   
-      You will need two text files:
+      1. You will need two text files:
           1. A text file with all the names of the objects you want to insert into the hash table.
           2. A text file with all the names of the objects you want to check if they are in the hash table.
 
-      **Also**
-
-          pip install murmurhash3
+      2. pip install murmurhash3
