@@ -1,6 +1,6 @@
 # Murmurhash
 
-  The progrem will help you determine wether an object is in the table
+  The progrem will help you to determine whether an object is in the table
 
   or not. I used the Murmur function in order to insert and withdraw
 
